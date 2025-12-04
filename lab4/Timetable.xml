@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule>
+  <day name="Среда">
+    <lesson>
+      <time>08:10-9:40</time>
+      <subject>Английский язык A1</subject>
+      <type>Практика</type>
+      <teacher>Яковлева Ольга Александровна</teacher>
+      <audience>3110</audience>
+      <adress>ул.Ломоносова, д.9, лит. Е</adress>
+    </lesson>
+    <lesson>
+      <time>09:50-11:20</time>
+      <subject>Английский язык A1</subject>
+      <type>Практика</type>
+      <teacher>Яковлева Ольга Александровна</teacher>
+      <audience>3110</audience>
+      <adress>ул.Ломоносова, д.9, лит. Е</adress>
+    </lesson>
+    <lesson>
+      <time>13:30-15:00</time>
+      <subject>Программирование</subject>
+      <type>Лекция</type>
+      <teacher>Гаврилов Антон Валерьевич</teacher>
+      <audience>Актовый зал(1216/0(усл))</audience>
+      <adress>ул.Ломоносова, д.9, лит. M</adress>
+    </lesson>
+  </day>
+  <day name="Суббота">
+    <lesson>
+      <time>09:50-11:20</time>
+      <subject>Программирование</subject>
+      <type>Лабораторная</type>
+      <teacher>Выдра Андрей Михайлович</teacher>
+      <audience>1320</audience>
+      <adress>Кронверкский пр., д.49, лит.А</adress>
+    </lesson>
+    <lesson>
+      <time>11:30-13:00</time>
+      <subject>Программирование</subject>
+      <type>Лабораторная</type>
+      <teacher>Выдра Андрей Михайлович</teacher>
+      <audience>1320</audience>
+      <adress>Кронверкский пр., д.49, лит.А</adress>
+    </lesson>
+  </day>
+</schedule>
